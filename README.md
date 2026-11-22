@@ -14,6 +14,12 @@ Prepared a vendor compliance checklist for a fictional payment-processing engage
 
 The source spreadsheet records the compliance item, a review status, contractual notes/evidence, source clauses, potentially relevant law or standard, risk, owner, timing, priority, and requested follow-up.
 
+## Example review decision
+
+| Contract requirement | Evidence to request | Proposed decision |
+| --- | --- | --- |
+| The payment processor commits to PCI DSS compliance. | Request its current PCI DSS Attestation of Compliance (AoC) and check that the scope covers the services the marketplace would use. | Keep the PCI evidence request open before launch until the attestation is received and its scope is confirmed. Record who owns the follow-up in the checklist. |
+
 ## GRC topics demonstrated
 
 | Review area | Focus |
